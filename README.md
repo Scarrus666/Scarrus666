@@ -1,3 +1,8 @@
+# Climathon Zürich 2023
+## 27. - 28. October 2023
+### https://climathon.ch
+
+
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in Coding, Programming, Tech Stuff and more...
 - 🌱 I’m currently learning some things about Game Logic.
