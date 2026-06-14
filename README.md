@@ -48,6 +48,9 @@ A native macOS app for network discovery and testing. Features multi-profile sca
 **Cobra (Snake Game)**
 A classic snake game implementation. Because every developer needs one!
 
+**Gremlins (Adventure)**
+Step into a unique Fantasy World where Myth and Adventure come together into a unique thrilling experience!
+
 *More interesting things coming soon...*
 
 ---
