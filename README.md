@@ -19,17 +19,29 @@ My approach? Learn by building. Break things. Fix them. Make them better.
 
 ### 🛠️ Tech Stack
 
-**Languages I work with:**
-- Python (my go-to)
+**Languages I'm proficient in:**
+- Python (my go-to for desktop apps & automation)
 - JavaScript / TypeScript
+- PHP
 - HTML/CSS
-- PHP (learning)
+
+**Backend & Frameworks:**
+- Node.js
+- Laravel
+- PHP (vanilla & frameworks)
+- FastAPI (Python)
+
+**Frontend:**
+- React / Vue (exploring)
+- Tailwind CSS
+- Responsive design
 
 **What I build:**
 - Desktop apps (Tkinter, PyInstaller, macOS)
-- Web applications
+- Web applications (full-stack)
+- REST APIs & backend services
 - Games and interactive experiences
-- Automation scripts & tools
+- Automation scripts & CLI tools
 
 **Tools & Environment:**
 - Git & GitHub
@@ -37,6 +49,8 @@ My approach? Learn by building. Break things. Fix them. Make them better.
 - VS Code
 - Homebrew
 - PyInstaller for app distribution
+- npm / Composer
+- MySQL / SQLite
 
 ---
 
