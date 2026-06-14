@@ -1,13 +1,76 @@
-# Some new interesting things coming soon
-## Coding since mai 2023
-### Bonus - Cobra! A snake like game.
+# Hey, I'm Alex 👋
 
+**Creative Developer | Tech Explorer | Building since 2023**
 
-- 👋 Hi, I’m Alex
-- 👀 I’m interested in Coding, Programming, Tech Stuff and more...
-- 🌱 I’m currently learning some things about Game Logic.
-- 💞️ I’m looking to collaborate on anything involving Front- and Backend, different coding languages and more!
-- 📫 Contact me @ scarrus@gmail.com
+---
+
+### 🚀 About Me
+
+I'm a passionate developer who jumped into the coding world in May 2023 and never looked back. I love building tools that actually do something—whether it's a macOS app for network discovery, a browser-based game, or automating the tedious stuff nobody wants to do manually.
+
+My approach? Learn by building. Break things. Fix them. Make them better.
+
+- 🔭 **Currently building:** macOS apps with Python, network tools, and game projects
+- 🌱 **Learning:** Game logic, deeper Python, backend architecture
+- 💡 **Interests:** Frontend, Backend, Automation, Security, Game Dev
+- 🎮 **Bonus project:** Cobra—a Snake-like game (check my repos!)
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages I work with:**
+- Python (my go-to)
+- JavaScript / TypeScript
+- HTML/CSS
+- PHP (learning)
+
+**What I build:**
+- Desktop apps (Tkinter, PyInstaller, macOS)
+- Web applications
+- Games and interactive experiences
+- Automation scripts & tools
+
+**Tools & Environment:**
+- Git & GitHub
+- macOS / Terminal
+- VS Code
+- Homebrew
+- PyInstaller for app distribution
+
+---
+
+### 📌 Featured Projects
+
+**Network Scanner & Stress Tester**
+A native macOS app for network discovery and testing. Features multi-profile scanning, selective targeting, and a dark-themed GUI. Built with Python and Tkinter.
+
+**Cobra (Snake Game)**
+A classic snake game implementation. Because every developer needs one!
+
+*More interesting things coming soon...*
+
+---
+
+### 📫 Let's Connect
+
+- **Email:** scarrus@gmail.com
+- **GitHub:** [github.com/Scarrus666](https://github.com/Scarrus666)
+- Open to collaboration on frontend, backend, or anything interesting!
+
+---
+
+### ⚡ Fun Facts
+
+- Started coding in 2023 and already shipping real apps
+- I believe the best way to learn is to build something you'd actually use
+- If it can be automated, I'll probably try to automate it
+
+---
+
+<p align="center">
+  <i>"Code is just another way of building things. The only limit is imagination."</i>
+</p>
 
 <!---
 Scarrus666/Scarrus666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
